@@ -1,0 +1,15 @@
+Microsoft.Office.Desktop  # Office 365
+Microsoft.Teams
+ProtonTechnologies.ProtonMailBridge
+TeamViewer.TeamViewer
+Brave.Brave
+Bitwarden.Bitwarden
+WireGuard.WireGuard
+Mozilla.Thunderbird
+Mozilla.Firefox
+Microsoft.PowerShell
+VideoLAN.VLC
+Notepad++.Notepad++
+Microsoft.VisualStudioCode
+Google.Chrome
+Python.Python.3
