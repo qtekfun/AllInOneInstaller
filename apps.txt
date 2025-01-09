@@ -1,6 +1,6 @@
-Microsoft.Office.Desktop  # Office 365
+Microsoft.Office
 Microsoft.Teams
-ProtonTechnologies.ProtonMailBridge
+Proton.ProtonMail
 TeamViewer.TeamViewer
 Brave.Brave
 Bitwarden.Bitwarden
@@ -12,4 +12,7 @@ VideoLAN.VLC
 Notepad++.Notepad++
 Microsoft.VisualStudioCode
 Google.Chrome
-Python.Python.3
+Python.Python.3.13
+7zip.7zip
+Tailscale.Tailscale
+Nextcloud.NextcloudDesktop
