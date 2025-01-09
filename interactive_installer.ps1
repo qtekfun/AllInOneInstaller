@@ -35,7 +35,8 @@ function Install-Apps {
             winget install --id $app --silent --accept-package-agreements --accept-source-agreements
             Write-Host "$app instalado con éxito." -ForegroundColor Green
         } catch {
-            Write-Host "Error instalando $app: $_" -ForegroundColor Red
+            Write-Host ("Error instalando $app : $_") -ForegroundColor Red
+
         }
     }
 }
