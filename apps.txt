@@ -16,3 +16,7 @@ Python.Python.3.13
 7zip.7zip
 Tailscale.Tailscale
 Nextcloud.NextcloudDesktop
+Git.Git
+Discord.Discord
+JanDeDobbeleer.OhMyPosh
+vim.vim
