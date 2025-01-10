@@ -20,3 +20,6 @@ Git.Git
 Discord.Discord
 JanDeDobbeleer.OhMyPosh
 vim.vim
+localsend.localsend
+Logitech.LogiTune
+Jabra.Direct
