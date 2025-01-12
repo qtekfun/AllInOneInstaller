@@ -23,3 +23,10 @@ vim.vim
 localsend.localsend
 Logitech.LogiTune
 Jabra.Direct
+HandBrake.HandBrake
+PDFgear.PDFgear
+Safing.Portmaster
+Google.PlatformTools
+Oracle.VirtualBox
+XBMCFoundation.Kodi
+ente-io.auth-desktop
